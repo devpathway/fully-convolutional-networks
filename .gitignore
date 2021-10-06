@@ -1,0 +1,11 @@
+# python
+*.py[cdo]
+*.egg-info/
+build/
+dist/
+
+# pytest
+.cache/
+/.pytest_cache/
+
+logs/
